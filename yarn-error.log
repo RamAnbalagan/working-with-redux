@@ -1,0 +1,27 @@
+Arguments: 
+  /Users/ranbalag/.volta/tools/image/node/16.19.0/bin/node /Users/ranbalag/.volta/tools/image/yarn/1.22.10/bin/yarn.js add react-redux
+
+PATH: 
+  /Users/ranbalag/.volta/tools/image/yarn/1.22.10/bin:/Users/ranbalag/.volta/tools/image/node/16.19.0/bin:/Users/ranbalag/.volta/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/opt/homebrew/bin:/usr/local/linkedin/bin:/export/content/linkedin/bin:/export/content/granular/bin:/Users/ranbalag/.volta/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.19.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND dev-artifactory.corp.linkedin.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
